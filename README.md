@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lljjkkss&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=true&order=1&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lljjkkss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lljjkkss&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)
 
 ---
 
