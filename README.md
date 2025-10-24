@@ -4,14 +4,18 @@
 
 👋 Hi there, I'm **Tuan Nghia**, an aspiring **Fullstack Developer** 🚀 who believes that the best way to learn is by building. I'm constantly learning and improving my skills every day.
 
-<img height="auto" width="300" alt="GIF" align="right" src="https://github.com/lljjkkss/lljjkkss/blob/main/Gif/1936.gif">
+<div align="right">
+  <img height="auto" width="300" alt="GIF" src="https://github.com/lljjkkss/lljjkkss/blob/main/Gif/1936.gif">
+</div>
 
 **My Journey & Focus:**
 
 * 🌱 I'm currently focused on building a portfolio of personal projects ([@lljjkkss](https://github.com/lljjkkss)). This is my way of diving deep into technologies and translating ideas into real-world applications.
-* 🚀 I'm passionate about exploring the entire web stack, from crafting responsive user interfaces to building robust server-side logic .
+* 🚀 I'm passionate about exploring the entire web stack, from crafting responsive user interfaces with tools like **React** to building robust server-side logic with **Node.js**.
 * 🎯 My goal isn't just to learn to code; it's to become a creative **problem-solver**. I'm always open to new challenges, constructive feedback, and opportunities to collaborate with other developers.
-* 💬 Ask me about anything, I am happy to help!
+
+**Let's Connect:**
+* 💬 Ask me about anything (especially if it's about JavaScript!), I am happy to help!
 * 📫 You can reach me via email at [**tuannghia11a1@gmail.com**].
 
 <br>
