@@ -30,10 +30,9 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></code>
 
 <br><br>
-
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lljjkkss&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=true&order=1&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lljjkkss&locale=en&hide_title=false&layout=compact&card_width=495&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lljjkkss&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 </p>
 
 ---
